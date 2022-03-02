@@ -1,0 +1,15 @@
+C:\Users\JMM Tech\source\repos\ConsoleApp123\ConsoleApp123\bin\Debug\net5.0\ConsoleApp123.exe
+C:\Users\JMM Tech\source\repos\ConsoleApp123\ConsoleApp123\bin\Debug\net5.0\ConsoleApp123.deps.json
+C:\Users\JMM Tech\source\repos\ConsoleApp123\ConsoleApp123\bin\Debug\net5.0\ConsoleApp123.runtimeconfig.json
+C:\Users\JMM Tech\source\repos\ConsoleApp123\ConsoleApp123\bin\Debug\net5.0\ConsoleApp123.runtimeconfig.dev.json
+C:\Users\JMM Tech\source\repos\ConsoleApp123\ConsoleApp123\bin\Debug\net5.0\ConsoleApp123.dll
+C:\Users\JMM Tech\source\repos\ConsoleApp123\ConsoleApp123\bin\Debug\net5.0\ref\ConsoleApp123.dll
+C:\Users\JMM Tech\source\repos\ConsoleApp123\ConsoleApp123\bin\Debug\net5.0\ConsoleApp123.pdb
+C:\Users\JMM Tech\source\repos\ConsoleApp123\ConsoleApp123\obj\Debug\net5.0\ConsoleApp123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JMM Tech\source\repos\ConsoleApp123\ConsoleApp123\obj\Debug\net5.0\ConsoleApp123.AssemblyInfoInputs.cache
+C:\Users\JMM Tech\source\repos\ConsoleApp123\ConsoleApp123\obj\Debug\net5.0\ConsoleApp123.AssemblyInfo.cs
+C:\Users\JMM Tech\source\repos\ConsoleApp123\ConsoleApp123\obj\Debug\net5.0\ConsoleApp123.csproj.CoreCompileInputs.cache
+C:\Users\JMM Tech\source\repos\ConsoleApp123\ConsoleApp123\obj\Debug\net5.0\ConsoleApp123.dll
+C:\Users\JMM Tech\source\repos\ConsoleApp123\ConsoleApp123\obj\Debug\net5.0\ref\ConsoleApp123.dll
+C:\Users\JMM Tech\source\repos\ConsoleApp123\ConsoleApp123\obj\Debug\net5.0\ConsoleApp123.pdb
+C:\Users\JMM Tech\source\repos\ConsoleApp123\ConsoleApp123\obj\Debug\net5.0\ConsoleApp123.genruntimeconfig.cache
